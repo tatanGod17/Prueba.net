@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Login Page";
+}
+
+<div>
+    <img src="https://www.tekprovider.net/img/t-tm-t-2.png" style=" width: 250px; margin: 10px; " />
+</div>
+<div class="center">
+    <div class="card">
+        <form action="/Auth/Index" method="post">
+            <div>
+                <label style="width: 100px; margin-right : 12px;"> Usuario </label>
+                <input name="User" type="email" />
+            </div>
+            <hr />
+            <div>
+                <label style="width: 100px; margin-right: 12px;"> Contraseña </label>
+                <input name="Password" type="password" />
+            </div>
+            <div>
+                <input type=hidden name="Ip" id="ip">
+            </div>
+            <div>
+                <input type=hidden name="UserAgent" id="userAgent">
+            </div>
+            <hr />
+            <div>
+                <footer>
+                    <button type="submit" class="btn btn-primary" style=" margin-left: 210px;"> Iniciar sesion</button>
+                </footer>
+            </div>
+
+        </form>
+    </div>
+</div>
+
+<script>
+    function getIP(json) {
+        document.getElementById('ip').value = json.ip;
+        document.getElementById('userAgent').value = navigator.userAgent;
+    }
+</script>
+<script src="https://api.ipify.org?format=jsonp&callback=getIP"></script>

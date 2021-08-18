@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{8BFEDED5-DC2B-40D1-B772-7E650E88AA65}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PruebaJhonnathan/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="PruebaJhonnathan/Controllers/AuthController.cs" Line="78" Column="1" />
+      <File FileName="PruebaJhonnathan/Controllers/HomeController.cs" />
+      <File FileName="PruebaJhonnathan/Views/Home/Index.cshtml" Line="9" Column="26" />
+      <File FileName="PruebaJhonnathan/Views/Auth/Login.cshtml" Line="29" Column="42" />
+      <File FileName="PruebaJhonnathan/Views/Shared/_Layout.cshtml" Line="40" Column="95" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PruebaJhonnathan" expanded="True">
+            <Node name="PruebaJhonnathan" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Auth" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PruebaJhonnathan PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

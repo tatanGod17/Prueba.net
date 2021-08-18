@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JtTkZe8YNSb0PdY02wAEa+x5gTPOyjY42KslZ4ru75qmd8/f19z+WstMF/lV2JuYDlc3a5v/y29uGbw2di2Srw==",
+  "success": true,
+  "projectFilePath": "/Users/jhonnathangalvis/Projects/PruebaJhonnathan/PruebaJhonnathan/PruebaJhonnathan.csproj",
+  "expectedPackageFiles": [
+    "/Users/jhonnathangalvis/.nuget/packages/metismenu/2.7.1/metismenu.2.7.1.nupkg.sha512",
+    "/Users/jhonnathangalvis/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/jhonnathangalvis/.nuget/packages/restsharp/106.12.0/restsharp.106.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
